@@ -1,0 +1,2 @@
+# partnerhub
+Partnerhub discord bot
